@@ -24,7 +24,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBghmiGETw5CXnY1NvT2nhYdKmfHFdJ3os" />
+            android:value="Your Api key" />
 
         <activity
             android:name=".Chatbot"
